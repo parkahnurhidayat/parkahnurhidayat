@@ -4,9 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parkahnurhidayat&label=Profile%20views&color=0e75b6&style=flat" alt="parkahnurhidayat" /> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://parkah.vercel.app/](https://parkah.vercel.app/)
+
+- 💬 Ask me about **react**
+
+- 📫 How to reach me **parkah098@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
