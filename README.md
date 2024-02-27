@@ -1,4 +1,4 @@
-<img src="https://wallpaperaccess.com/full/2471314.gif" style="width: 100%; height: 50%; object-fit: cover;">
+<img src="https://wallpaperaccess.com/full/2471283.gif" style="width: 100%; height: 50%; object-fit: cover;">
 
 
 <h1 align="center">Hi 👋, I'm Parkah Nurhidayat</h1>
