@@ -1,4 +1,4 @@
-<img width="100%" height="50%" src="https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" style="height: 50%;">
+<img width="80%" height="50%" src="https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" style="height: 50%;">
 
 
 <h1 align="center">Hi 👋, I'm Parkah Nurhidayat</h1>
