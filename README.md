@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parkah Nurhidayat</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1VPOWpnclV3WTNhUlJ2NDd3dURrdkxnOEV1Z3xBQ3Jtc0tta1RUWW1hXzVzbmJFa1BIU1NkY2VDUXJVWTJqdFVZbDg0ckJsZmVjaUs0bTNrTDM5WFp1M2Jrel9UN1VMOVNIWHgwM1NoSW95dGtBMXlJekZiZ3YxOHJpS0NiVWtWODAteVhuZ2FRM0UtTjJqdUpNVQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parkahnurhidayat&label=Profile%20views&color=0e75b6&style=flat" alt="parkahnurhidayat" /> </p>
 
