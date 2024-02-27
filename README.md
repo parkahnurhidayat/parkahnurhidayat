@@ -1,4 +1,4 @@
-<img src="https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" style="width: 100%; height: 400px; object-fit: cover;">
+<img src="https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" style="width: 100%; height: 50%; object-fit: cover;">
 
 
 <h1 align="center">Hi 👋, I'm Parkah Nurhidayat</h1>
@@ -30,8 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parkahnurhidayat&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="parkahnurhidayat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parkahnurhidayat&show_icons=true&locale=en&theme=github_dark" alt="parkahnurhidayat" /></p>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
