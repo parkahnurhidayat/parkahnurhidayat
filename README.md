@@ -24,9 +24,11 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/parkah-nurhidayat-6565a627b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parkah-nurhidayat-6565a627b/" height="30" width="40" /></a>
 <a href="https://instagram.com/parkhnh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parkhnh_" height="30" width="40" /></a>
 </p>
+
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-right: 30px;">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
@@ -136,6 +138,7 @@
     />
   </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parkahnurhidayat&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="parkahnurhidayat" /></p>
